@@ -44,7 +44,7 @@ def print_spicy_foods(spicy_foods):
 print_spicy_foods(spicy_foods)
 
 
-#6.
+#6. hello world
 
 
 
